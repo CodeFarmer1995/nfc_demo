@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#ffff"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/tvFa"
+        android:text="签到中心"
+        android:textSize="22dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content" />
+
+     <Button
+         android:layout_width="wrap_content"
+         android:layout_gravity="right"
+         android:text="NFC签到"
+         android:id="@+id/btNFC"
+         android:layout_marginRight="15dp"
+         android:layout_height="wrap_content" />
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_marginTop="10dp"
+         android:layout_marginLeft="25dp"
+         android:layout_marginRight="25dp"
+         android:orientation="horizontal"
+         android:background="@drawable/shape"
+         android:layout_height="50dp">
+
+         <EditText
+             android:layout_width="0dp"
+             android:background="@null"
+             android:layout_weight="1"
+             android:textColor="#ffff"
+             android:id="@+id/et"
+             android:text="点击查看会议的签到信息"
+             android:hint=""
+             android:layout_height="wrap_content" />
+         <ImageView
+             android:id="@+id/iv"
+             android:layout_width="wrap_content"
+             android:src="@drawable/search"
+             android:layout_height="wrap_content" />
+     </LinearLayout>
+
+     <ListView
+         android:layout_width="match_parent"
+         android:layout_margin="15dp"
+         android:id="@+id/lv"
+         android:layout_gravity="center_horizontal"
+         android:layout_height="wrap_content" />
+</LinearLayout>

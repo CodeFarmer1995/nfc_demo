@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/tvFa"
+        android:text="发布中心"
+        android:textSize="22dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:text="发布缺勤"
+            android:id="@+id/btferen"
+            android:background="@drawable/bmob_update_button_cancel_bg_focused"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="5dp"
+            android:text="发布公告"
+            android:id="@+id/btnotice"
+            android:background="@drawable/bmob_update_button_cancel_bg_focused"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="选择时间"
+        android:visibility="gone"
+        android:id="@+id/tvtime"
+        android:textColor="#6297ec"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/shapee"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/ll"
+        android:visibility="gone"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="#8fedcc"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            android:layout_height="40dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="缺席人："
+                android:layout_gravity="center"
+                android:layout_marginLeft="30dp"
+                android:textSize="20dp"
+                android:textColor="#ffff"
+                android:layout_height="wrap_content" />
+            <EditText
+                android:layout_width="80dp"
+                android:id="@+id/etname"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:background="#8fedcc"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:text="缺席原因："
+                android:layout_gravity="center"
+                android:textColor="#ffff"
+                android:textSize="20dp" />
+
+            <Spinner
+                android:id="@+id/spyuan"
+                android:entries="@array/yuan"
+                android:layout_gravity="center"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ll2"
+        android:visibility="gone"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="#8fedcc"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            android:layout_height="55dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="会议地点："
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="#ffff"
+                android:layout_height="wrap_content" />
+            <EditText
+                android:layout_width="200dp"
+                android:id="@+id/etLoc"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/etIn"
+
+            android:hint="编辑会议内容"
+            android:layout_height="200dp" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/btFa"
+        android:text="发布"
+        android:visibility="gone"
+        android:textSize="18dp"
+        android:textColor="#ffff"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape"
+        android:layout_height="wrap_content" />
+</LinearLayout>

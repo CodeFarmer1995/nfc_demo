@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\71ba7e45a6a269c60ad9dff17f12fc6d3f5efc7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\Desktop\nfc_demo\app\build\intermediates\pre-dexed\debug\classes_177ae78b08b70ebc36264675297b40236e0f7747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\74c7e706331f3bdb5c11685d18637e11775f63be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\Desktop\nfc_demo\app\build\intermediates\pre-dexed\debug\classes_8baa69369506ced100d45774867b1375d85621a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e19a787d0c4df350e70bb7789d165935ea644144\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\Desktop\nfc_demo\app\build\intermediates\pre-dexed\debug\classes_6fcabaa3eaf4df814ef1c0f3cb29fbdbf2dd82dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\Desktop\nfc_demo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_eff36cb3dd5776bcc7dfe63d3c4af3d7d0b02909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6dfda5a8106e70c3186e36b7457759187f2d2204\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\Desktop\nfc_demo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_51bd1e68b1236e58911ff84d2852acd83115d207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0\931532e953a477f876f2de18c2e7f16eee01078f\constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="C:\Users\Administrator\Desktop\nfc_demo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.0_bd945562fbdca984df32cceeb5303aad41d32b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\10112f9e2bf3f71ab0ffad7befe1e59b0d5322b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="C:\Users\Administrator\Desktop\nfc_demo\app\build\intermediates\pre-dexed\debug\classes_51deb13de117df00c27d7a6cd8434c2f7041619f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6dfda5a8106e70c3186e36b7457759187f2d2204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\Desktop\nfc_demo\app\build\intermediates\pre-dexed\debug\classes_4f2bfe2a507ea88b156f97a3c6b7b1fdaf8d675e.jar" />
+    </item>
+
+</items>

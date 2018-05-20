@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.android.support:design:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\435c77c63967462cf9aed80fc99018c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\8b40d497c5d2576d3087d098ff24af4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\8b2561f1b97f963e79b275153b632b18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e58dcf5bfa2cfc7a1d41b75e2241b08f\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\46d2f10b46ed07062c43ebba99cd4513\AndroidManifest.xml:2:1-16:12
+MERGED from [cn.bmob.android:bmob-im:2.0.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-im-2.0.5.aar\89aeaf3b0b1bce59356c883ac0403c97\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ff479621c018e5d703b7c4217c404413\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\ca650d33a8f9d8a8f296a45e48dd26f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\a2575016a3377fb6a937a860b4d1e2e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\68fb199be927564714e757f3c1e42eb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\5fedbacc9b46d5f277cb361f5f65c8a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\831d1bc7ec02ba3485d93c916cf48ce2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\5b4366b22f070f7bded1c1db3144dad4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\9c5e86d9383c79d3fbde976f0119a691\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\34aaf5ba137bcfb8efe0e4cb2379b6e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\013fe60361daf28e819cc3e9011f4ce2\AndroidManifest.xml:17:1-30:12
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\435c77c63967462cf9aed80fc99018c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\435c77c63967462cf9aed80fc99018c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\8b40d497c5d2576d3087d098ff24af4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\8b40d497c5d2576d3087d098ff24af4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\8b2561f1b97f963e79b275153b632b18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\8b2561f1b97f963e79b275153b632b18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e58dcf5bfa2cfc7a1d41b75e2241b08f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e58dcf5bfa2cfc7a1d41b75e2241b08f\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\46d2f10b46ed07062c43ebba99cd4513\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\46d2f10b46ed07062c43ebba99cd4513\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bmob.android:bmob-im:2.0.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-im-2.0.5.aar\89aeaf3b0b1bce59356c883ac0403c97\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bmob.android:bmob-im:2.0.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-im-2.0.5.aar\89aeaf3b0b1bce59356c883ac0403c97\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ff479621c018e5d703b7c4217c404413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ff479621c018e5d703b7c4217c404413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\ca650d33a8f9d8a8f296a45e48dd26f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\ca650d33a8f9d8a8f296a45e48dd26f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\a2575016a3377fb6a937a860b4d1e2e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\a2575016a3377fb6a937a860b4d1e2e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\68fb199be927564714e757f3c1e42eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\68fb199be927564714e757f3c1e42eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\5fedbacc9b46d5f277cb361f5f65c8a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\5fedbacc9b46d5f277cb361f5f65c8a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\831d1bc7ec02ba3485d93c916cf48ce2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\831d1bc7ec02ba3485d93c916cf48ce2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\5b4366b22f070f7bded1c1db3144dad4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\5b4366b22f070f7bded1c1db3144dad4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\9c5e86d9383c79d3fbde976f0119a691\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\9c5e86d9383c79d3fbde976f0119a691\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\34aaf5ba137bcfb8efe0e4cb2379b6e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\34aaf5ba137bcfb8efe0e4cb2379b6e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\013fe60361daf28e819cc3e9011f4ce2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\013fe60361daf28e819cc3e9011f4ce2\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\nfc_demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.NFC
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:23:5-62
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:23:22-59
+uses-feature#android.hardware.nfc
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:25:5-27:35
+	android:required
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:27:9-32
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:26:9-44
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:29:5-80
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:29:22-77
+application
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:31:5-63:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e58dcf5bfa2cfc7a1d41b75e2241b08f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e58dcf5bfa2cfc7a1d41b75e2241b08f\AndroidManifest.xml:9:5-20
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\46d2f10b46ed07062c43ebba99cd4513\AndroidManifest.xml:11:5-14:19
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\46d2f10b46ed07062c43ebba99cd4513\AndroidManifest.xml:11:5-14:19
+MERGED from [cn.bmob.android:bmob-im:2.0.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-im-2.0.5.aar\89aeaf3b0b1bce59356c883ac0403c97\AndroidManifest.xml:11:5-15:19
+MERGED from [cn.bmob.android:bmob-im:2.0.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-im-2.0.5.aar\89aeaf3b0b1bce59356c883ac0403c97\AndroidManifest.xml:11:5-15:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\013fe60361daf28e819cc3e9011f4ce2\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\013fe60361daf28e819cc3e9011f4ce2\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from [cn.bmob.android:bmob-sdk:3.5.5] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\bmob-sdk-3.5.5.aar\46d2f10b46ed07062c43ebba99cd4513\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:34:9-36
+	android:allowBackup
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:36:9-40
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:32:9-38
+activity#com.r8c.nfc_demo.NfcDemoActivity
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:37:9-51:20
+	android:label
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:41:13-44
+	android:configChanges
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:38:13-44
+intent-filter#action:name:android.nfc.action.TECH_DISCOVERED
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:44:13-46:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:45:25-74
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:48:13-50:59
+	android:resource
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:50:17-56
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:49:17-66
+activity#com.r8c.nfc_demo.FrirstActivity
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:52:9-58:20
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:52:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:56:27-74
+activity#com.r8c.nfc_demo.MianUIActivity
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:59:9-52
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:59:19-49
+activity#com.r8c.nfc_demo.UserLoginActivity
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:60:9-55
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:60:19-52
+activity#com.r8c.nfc_demo.ManLoginActivity
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:61:9-54
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:61:19-51
+activity#com.r8c.nfc_demo.UserHomeActivity
+ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:62:9-63
+	android:name
+		ADDED from F:\nfc_demo\app\src\main\AndroidManifest.xml:62:19-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\013fe60361daf28e819cc3e9011f4ce2\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\013fe60361daf28e819cc3e9011f4ce2\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CodeFarmer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\013fe60361daf28e819cc3e9011f4ce2\AndroidManifest.xml:26:13-58

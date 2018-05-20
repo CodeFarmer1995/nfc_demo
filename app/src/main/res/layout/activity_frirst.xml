@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/meeting"
+    android:layout_height="match_parent"
+    tools:context="com.r8c.nfc_demo.FrirstActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="300dp"
+        android:orientation="horizontal"
+        android:id="@+id/ll"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="60dp"
+            android:textSize="20dp"
+            android:text="我是用户"
+            android:id="@+id/btUser"
+            android:textColor="#ffff"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="60dp"
+            android:textSize="20dp"
+            android:text="我是管理"
+            android:id="@+id/btMan"
+            android:textColor="#ffff"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

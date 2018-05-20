@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroud"
+    android:orientation="vertical"
+    tools:context="com.r8c.nfc_demo.UserHomeActivity">
+    <Button
+        android:layout_width="wrap_content"
+        android:textColor="#5218e6"
+        android:layout_margin="15dp"
+        android:text="点击签到"
+        android:layout_gravity="center"
+        android:id="@+id/btsign"
+        android:background="@drawable/bmob_update_button_cancel_bg_focused"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="150dp"
+        android:layout_gravity="center"
+        android:layout_margin="15dp"
+        android:text="查看会议通知"
+        android:textColor="#ff00"
+        android:id="@+id/btmeeting"
+        android:background="@drawable/bmob_update_button_cancel_bg_focused"
+        android:layout_height="wrap_content" />
+    <ListView
+        android:layout_width="match_parent"
+        android:id="@+id/lv"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content">
+
+    </ListView>
+</LinearLayout>
